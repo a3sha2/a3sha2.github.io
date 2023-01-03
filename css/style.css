@@ -163,9 +163,9 @@ nav {
 
 #sidebar_container { 
   float: center;
-  width: 150px;
+  width: 400px;
   padding: 0;
-  height: 150px;
+  height: 400px;
 }
 
 #content { 
